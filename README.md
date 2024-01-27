@@ -1,4 +1,3 @@
-# Coccolithophores
 
 Coccolithophores are unicellular algae that cover their cell wall with crystals of calcium carbonate. These crystals have complex morphologies that largely differ from synthetic grown calcite, which is isotropic. How the organism controls the crystal morphology remains a mistery.
 
